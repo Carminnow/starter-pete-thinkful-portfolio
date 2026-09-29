@@ -63,3 +63,9 @@ Learning moment — specificity in practice: Working within an existing styleshe
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling and layout of the portfolio.
 - **Responsive Design**: Built with mobile-first principles in mind.
+
+<img width="872" height="917" alt="image" src="https://github.com/user-attachments/assets/6fa49b8c-166e-4f1e-83a1-a67b1f1c435a" />
+<img width="817" height="842" alt="image" src="https://github.com/user-attachments/assets/31885094-654a-4650-9832-0893a9a14e36" />
+<img width="1000" height="481" alt="image" src="https://github.com/user-attachments/assets/91fdd090-374c-4cc7-a553-231dc81e32e9" />
+
+
